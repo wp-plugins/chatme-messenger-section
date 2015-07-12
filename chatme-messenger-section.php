@@ -7,4 +7,6 @@
     Demo: http://chatme.im
     Version: 1.0
     PageLines: true
+	Text Domain: tc-chatme-messenger
+	Domain Path: /languages/
 */
