@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_i
 Tags: chat, xmpp, jabber, chatme, irc, pagelines, section
 Requires at least: 3.8
 Tested up to: 4.3
-Stable tag: 1.0
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -70,10 +70,16 @@ This section describes how to install the plugin and get it working.
 
 == Changelog ==
 
+= 1.0.1 =
+* Italian Language
+
 = 1.0 =
 * First stable version
 
 == Upgrade Notice ==
+
+= 1.0.1 =
+* Italian Language
 
 = 1.0 =
 * First stable version
