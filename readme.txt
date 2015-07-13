@@ -12,7 +12,7 @@ ChatMe Messenger is an open source webchat client, that runs in the browser and 
 
 == Description ==
 
-THIS PLUGIN WORK ONLY WITH [PAGELINES DMS](http://www.pagelines.com), FOR USE WITH OTHER THEME USE [THIS](https://wordpress.org/plugins/chatmeim-mini-messenger/)
+**THIS PLUGIN WORK ONLY WITH [PAGELINES DMS](http://www.pagelines.com), FOR USE WITH OTHER THEME USE [THIS](https://wordpress.org/plugins/chatmeim-mini-messenger/)**
 
 ChatMe Messenger is an open source webchat client, that runs in the browser and can be integrated into any website.
 
